@@ -1,2 +1,3 @@
-print("Orange!")
-print("Yellow")
+print("Oranges")
+print("Raspberry")
+print("Strawberry")
