@@ -3,7 +3,7 @@ python:
 - 3.8
 
 vm:
-size: medium
+size: large
 
 script: python test_fruit.py
 
