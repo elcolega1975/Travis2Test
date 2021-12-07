@@ -2,6 +2,9 @@ language: python
 python:
 - 3.8
 
+vm:
+size: medium
+
 script: python test_fruit.py
 
 notifications:
